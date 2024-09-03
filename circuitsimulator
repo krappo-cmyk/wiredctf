@@ -1,0 +1,4 @@
+1RCU1T_SL3UTH_1
+this question was purely based on boolian logic, due to my prior past in boolean logic , it was easy to find the flag
+basically we just want to lit up the led , there were 'and' gates and 'not gate' , in and gate both the values of input should be 1 in order to have 1 as out put , 
+so after a few mind tricking problem solving i got that in order for the led to glow we need switches 1,4,5,6,7 to be turned on

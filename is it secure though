@@ -1,0 +1,14 @@
+#Is_It_Secure_Tho??
+from the despription got a hint that the trnsfered file was insecure basically pointing out that the possible protocols are http, tcp.
+and when searched for possible flag terms, there was a file which had wired in their details 
+and found wired%7Bs3cur3_4_ev4%7D
+which was in am html form and converted it into ascii it was chown wired{s3cur3_4_ev4}
+command:
+ctrl +F
+  packet details
+  string
+  wired
+result :
+  wired%7Bs3cur3_4_ev4%7D
+and  converted it into ascii
+flag : wired{s3cur3_4_ev4}
